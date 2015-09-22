@@ -1,4 +1,4 @@
-Title: How To Install Minecraft On Ubuntu14.04
+Title: How To Install Minecraft On Ubuntu 14.04
 Date: 2015-09-22 10:20
 Catergory: HowTo
 

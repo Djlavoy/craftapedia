@@ -1,5 +1,5 @@
 Title: How To Install A MineCraft Client On Ubuntu
-Date: 2015-09-22 10:20
+Date: 2015-09-22
 Catergory: HowTo
 
 Good day guys! I am Jake and I am going to tell you how you install Minecraft on an Ubuntu desktop machine.

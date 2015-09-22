@@ -2,10 +2,10 @@ Title: How To Install A MineCraft Client On Ubuntu
 Date: 2015-09-22 10:20
 Catergory: HowTo
 
-Good day guys! I am Jake and I am going to tell you how you install Minecraft on an Ubuntu machine.
+Good day guys! I am Jake and I am going to tell you how you install Minecraft on an Ubuntu desktop machine.
 
 
-Before we can venture onto installing Ubuntu, we must install a Java Runtime Enviroment. For the easiest way to install Java, go to Software Center and install OpenJDK.
+Before we can venture onto installing Minecraft on Ubuntu Desktop, We must install a Java Runtime Enviroment. For the easiest way to install Java, go to Software Center and install OpenJDK.
 
 or run the following commands in terminal 
 
@@ -14,7 +14,7 @@ $ apt-get update
 $ apt-get install default-jdk 
 ```
 
-Now follow these steps to install Minecraft. 
+Now follow these steps to install the Minecraft Client. 
 
 ##Step One:
 

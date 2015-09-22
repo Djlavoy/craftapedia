@@ -1,7 +1,19 @@
 +++
 date = "2015-09-22T16:37:57Z"
 draft = true
-title = "HowToInstallMinecraftOnUbuntu14_04"
+title = "How To Install Minecraft On Ubuntu14.04"
 
 +++
+
+# How to install minecraft on Ubuntu 14.04
+
+##### Step 1:
+
+Update ubuntu
+
+```sh
+$ apt-get update
+$ apt-get upgrade
+```
+
 
